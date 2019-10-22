@@ -1,6 +1,5 @@
 """THIS IS README FILE"""
 """""""""""""""""""""""""
-"""PLEASE FORGIVE ME IF IT STILL HAS SO MANY MESSY CODE OR UNUSED CODE INSIDE SCRIPT"""
 """IF NOT CLEAR YOU CAN SEE EXAMPLE TESTCASE ON TESTCASE FOLDER, JUST CHANGE FACEBOOK EMAIL & PASSWORD IN object_repository in PUBLIC_FUNCTION folder,
 then run TEST_SUITE_ALL.py file"""
 Using this combine script, you can easily generate Extent Report using Python. All basic common function is built-in with extent test steps, so you don't

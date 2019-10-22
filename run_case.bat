@@ -1,0 +1,1 @@
+python test_suite_all.py
